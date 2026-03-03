@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         if (args.length != 3) {
-            System.out.println("USAGE: java AnyaLab2 <VECTOR_SIZE> <ROW_NUM> <COL_NUM>");
+            System.out.println("USAGE: java Lab2 <VECTOR_SIZE> <ROW_NUM> <COL_NUM>");
             System.exit(0);
         }
 
